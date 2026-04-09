@@ -1,5 +1,4 @@
-<!-- Header / Banner (opcional: puedes agregar una imagen banner si quieres) -->
-# 👋 Hi there, I'm Gabriel Zapata
+https://github.com/Gabo-prog007/Gabo-prog007/blob/main/Banner.png?raw=true
 
 ### 📊 Data Analyst | Business Intelligence Specialist | Process Automation
 
