@@ -16,7 +16,7 @@ Industrial Engineer with an MBA and **7+ years of experience** in Data Analysis,
 - 🔍 Passionate about **ETL**, **dashboard design** (Power BI), and **automation** (Python, VBA).
 - 📈 Proven track record: **25–30% cost reductions**, **80% faster reporting**, **40% better forecast accuracy**.
 - 🌎 Based in Caracas, Venezuela – ready for **remote opportunities worldwide**.
-- 🎓 Microsoft Data Analyst Certificate (in progress).
+- 🎓 Microsoft Data Analyst Certificate
 
 ---
 
