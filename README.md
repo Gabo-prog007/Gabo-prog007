@@ -1,4 +1,4 @@
-https://github.com/Gabo-prog007/Gabo-prog007/blob/main/Banner.png?raw=true
+![Banner](https://raw.githubusercontent.com/Gabo-prog007/Gabo-prog007/main/Banner.png)
 
 ### 📊 Data Analyst | Business Intelligence Specialist | Process Automation
 
