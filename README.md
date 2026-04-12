@@ -56,7 +56,7 @@ Here are some of my data analysis & BI projects. *(Click on the titles to see th
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📊 Sales Dashboard – Power BI](#) | Interactive dashboard tracking sales KPIs, profit margins, and regional performance. | Power BI, DAX, SQL |
+| [🏦 Lending Club Credit Risk Analysis](https://github.com/Gabo-prog007/lending-club-risk-analysis) | End-to-end analysis of 1.3M+ loans using Python, SQL & Power BI. Includes KNN imputation, RFM segmentation, and a 5-page executive dashboard with advanced DAX. | Python (Pandas, scikit-learn), PostgreSQL, Power BI, DAX |
 | [🐍 ETL Automation with Python](#) | Scripts to clean, transform, and load data from Excel/CSV into SQL databases. | Python (pandas, numpy), SQL |
 | [📈 Financial Forecasting Model](#) | Time series forecasting to predict monthly expenses with 95% accuracy. | Excel, Python, statsmodels |
 | [🧾 Supplier Scorecard – Power BI](#) | Vendor performance tracking with automated scorecards and alerts. | Power BI, Power Query |
