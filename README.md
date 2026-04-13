@@ -41,15 +41,6 @@ Industrial Engineer with an MBA and **7+ years of experience** in Data Analysis,
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabo-prog007&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-prog007&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 Here are some of my data analysis & BI projects. *(Click on the titles to see the full repo)*
@@ -71,14 +62,6 @@ I'm actively looking for **remote Data Analyst / BI Analyst** roles. If you have
 
 - 📧 **Email:** Gaboagosto91@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/gabriel-zapata7](https://www.linkedin.com/in/gabriel-zapata7)
-- 🌐 **Portfolio:** (coming soon)
 
+- 
 ---
-
-## ✨ Fun Fact
-
-When I'm not analyzing data, I enjoy exploring new automation tools and helping teams work smarter, not harder. Also, I love coffee ☕ and solving puzzles 🧩.
-
----
-
-*Last updated: April 2026*
