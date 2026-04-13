@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zapata7/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gaboagosto91@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Gabo-prog007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabo-prog007)
 [![Remote](https://img.shields.io/badge/Open_to_work-Remote-2EA043?style=for-the-badge&logo=remotely&logoColor=white)](#)
 
 ---
@@ -48,11 +48,7 @@ Here are some of my data analysis & BI projects. *(Click on the titles to see th
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🏦 Lending Club Credit Risk Analysis](https://github.com/Gabo-prog007/lending-club-risk-analysis) | End-to-end analysis of 1.3M+ loans using Python, SQL & Power BI. Includes KNN imputation, RFM segmentation, and a 5-page executive dashboard with advanced DAX. | Python (Pandas, scikit-learn), PostgreSQL, Power BI, DAX |
-| [🐍 ETL Automation with Python](#) | Scripts to clean, transform, and load data from Excel/CSV into SQL databases. | Python (pandas, numpy), SQL |
-| [📈 Financial Forecasting Model](#) | Time series forecasting to predict monthly expenses with 95% accuracy. | Excel, Python, statsmodels |
-| [🧾 Supplier Scorecard – Power BI](#) | Vendor performance tracking with automated scorecards and alerts. | Power BI, Power Query |
-
-> ⚠️ *Projects are being uploaded gradually. Check back soon or follow me for updates!*
+| [📊 Marketing Cohort & Retention Analysis](https://github.com/Gabo-prog007/marketing-cohort-retention-analysis) | Cohort retention and customer LTV analysis of 740k+ e-commerce transactions. Includes Python data cleaning, PostgreSQL queries, and a 3-page Power BI dashboard with heatmaps and DAX measures. | Python (Pandas), PostgreSQL, Power BI, DAX |
 
 ---
 
@@ -62,6 +58,6 @@ I'm actively looking for **remote Data Analyst / BI Analyst** roles. If you have
 
 - 📧 **Email:** Gaboagosto91@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/gabriel-zapata7](https://www.linkedin.com/in/gabriel-zapata7)
+- 📈 **Workana Profile:** [Link to your Workana profile]
 
-- 
 ---
