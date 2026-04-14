@@ -58,6 +58,5 @@ I'm actively looking for **remote Data Analyst / BI Analyst** roles. If you have
 
 - 📧 **Email:** Gaboagosto91@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/gabriel-zapata7](https://www.linkedin.com/in/gabriel-zapata7)
-- 📈 **Workana Profile:** [Link to your Workana profile]
 
 ---
