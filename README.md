@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Gabo-prog007/Gabo-prog007/main/Banner.png)
 
-### 📊 Data Analyst | Business Intelligence Specialist | Process Automation
+### 📊 Business Intelligence Analyst | HR & Procurement Analytics | Cost Optimization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-zapata7/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gaboagosto91@gmail.com)
@@ -11,52 +11,50 @@
 
 ## 👨‍💻 About Me
 
-Industrial Engineer with an MBA and **7+ years of experience** in Data Analysis, Business Intelligence, and Process Optimization. I turn messy data into clear, actionable insights that drive strategic decisions and cost savings.
+Industrial Engineer and MBA (Finance) bringing **8+ years of experience** bridging the gap between business operations and data analytics. I specialize in transforming raw data into actionable executive insights that drive cost optimization, streamline processes, and protect corporate budgets.
 
-- 🔍 Passionate about **ETL**, **dashboard design** (Power BI), and **automation** (Python, VBA).
-- 📈 Proven track record: **25–30% cost reductions**, **80% faster reporting**, **40% better forecast accuracy**.
-- 🌎 Based in Caracas, Venezuela – ready for **remote opportunities worldwide**.
-- 🎓 Microsoft Data Analyst Certificate
+- 🔍 Passionate about **Business Intelligence**, **data modeling** (Power BI, DAX, Power Query), and **strategic financial forecasting**.
+- 📈 Proven track record: Recovered **over $100,000 USD annually** via data audits, managed **$2,000,000+ USD** monthly budgets, and achieved **15% cost savings** in high-inflation environments.
+- 🤖 **AI-Assisted Workflow:** Leveraging Prompt Engineering and AI tools to accelerate ETL pipelines (Python/SQL), allowing me to focus 100% on business logic and advanced data visualization.
+- 🌎 Based in Caracas, Venezuela – ready for **remote opportunities worldwide** (Active on Upwork & Workana).
+- 🎓 Preparing for **Microsoft Power BI Data Analyst (PL-300) Certification**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Business Tools
 
-### Core Tech
+### Core Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-1B4F72?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-### Also experienced with
+### Data Preparation & Automation
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Python (AI-Assisted)](https://img.shields.io/badge/Python_(AI--Assisted)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL (AI-Assisted)](https://img.shields.io/badge/SQL_(AI--Assisted)-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA_Macros-9B4F96?style=for-the-badge&logo=microsoft&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some of my data analysis & BI projects. *(Click on the titles to see the full repo)*
+Here are my end-to-end strategic data analysis & BI projects. *(Click on the titles to see the full executive dashboards)*
 
-| Project | Description | Tech |
+| Project | Description | Primary Tech Focus |
 |---------|-------------|------|
-| [🏦 Lending Club Credit Risk Analysis](https://github.com/Gabo-prog007/lending-club-risk-analysis) | End-to-end analysis of 1.3M+ loans using Python, SQL & Power BI. Includes KNN imputation, RFM segmentation, and a 5-page executive dashboard with advanced DAX. | Python (Pandas, scikit-learn), PostgreSQL, Power BI, DAX |
-| [📊 Marketing Cohort & Retention Analysis](https://github.com/Gabo-prog007/marketing-cohort-retention-analysis) | Cohort retention and customer LTV analysis of 740k+ e-commerce transactions. Includes Python data cleaning, PostgreSQL queries, and a 3-page Power BI dashboard with heatmaps and DAX measures. | Python (Pandas), PostgreSQL, Power BI, DAX |
+| [🏦 Lending Club Credit Risk Analysis](https://github.com/Gabo-prog007/lending-club-risk-analysis) | End-to-end Business Intelligence analysis of 1.3M+ loan records to identify risk patterns and default probabilities. Includes a 5-page executive dashboard with advanced DAX and RFM segmentation. | Power BI, Advanced DAX, Power Query, AI-Assisted ETL |
+| [📊 Marketing Cohort & Retention Analysis](https://github.com/Gabo-prog007/marketing-cohort-retention-analysis) | Comprehensive retention and Customer Lifetime Value (LTV) analysis based on 740k+ e-commerce transactions. Features a 3-page interactive Power BI dashboard with dynamic heatmaps and churn tracking. | Power BI, Advanced DAX, Power Query, AI-Assisted ETL |
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively looking for **remote Data Analyst / BI Analyst** roles. If you have an opportunity or just want to chat about data, reach out!
+I'm actively looking for **remote Business Intelligence / Data Analytics** roles. If you have an opportunity or just want to chat about data and cost optimization, reach out!
 
 - 📧 **Email:** Gaboagosto91@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/gabriel-zapata7](https://www.linkedin.com/in/gabriel-zapata7)
+- 🌐 **Freelance:** Available for strategic consulting on Upwork & Workana.
 
 ---
