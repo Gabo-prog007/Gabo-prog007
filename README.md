@@ -46,6 +46,7 @@ Here are my end-to-end strategic data analysis & BI projects. *(Click on the tit
 |---------|-------------|------|
 | [🏦 Lending Club Credit Risk Analysis](https://github.com/Gabo-prog007/lending-club-risk-analysis) | End-to-end Business Intelligence analysis of 1.3M+ loan records to identify risk patterns and default probabilities. Includes a 5-page executive dashboard with advanced DAX and RFM segmentation. | Power BI, Advanced DAX, Power Query, AI-Assisted ETL |
 | [📊 Marketing Cohort & Retention Analysis](https://github.com/Gabo-prog007/marketing-cohort-retention-analysis) | Comprehensive retention and Customer Lifetime Value (LTV) analysis based on 740k+ e-commerce transactions. Features a 3-page interactive Power BI dashboard with dynamic heatmaps and churn tracking. | Power BI, Advanced DAX, Power Query, AI-Assisted ETL |
+| [👥 HR Retention & Financial Impact Analytics](https://github.com/Gabo-prog007/HR-Retention-Analytics) | Strategic People Analytics project analyzing 2.5k employee records to uncover root causes of attrition. Features a 2-page executive dashboard translating turnover into direct financial impact (Replacement Cost). | Python, Power BI, Advanced DAX, Financial Modeling |
 
 ---
 
